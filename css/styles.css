@@ -138,7 +138,8 @@
   outline: none;
   font-size: 30px;
   font-family: "SiemansSans-Bold";
-  border: none;
+  border: solid;
+  border-radius: 50px;
 }
 
 #btn a {
